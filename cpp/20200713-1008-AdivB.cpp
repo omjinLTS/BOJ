@@ -9,4 +9,4 @@ int main()
     cout.precision(100);
     cout << a/b;
     return 0;
-}
+} 
