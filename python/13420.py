@@ -1,0 +1,1 @@
+exec("print(['wrong answer','correct'][eval(input().replace('=','=='))]);"*int(input()))
